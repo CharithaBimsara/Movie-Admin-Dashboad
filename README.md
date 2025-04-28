@@ -1,4 +1,4 @@
-# 🎬 MovieFlix Admin Dashboard
+# 🎬 MovieFlix Admin Dashboard - Frontend
 
 ![Demo Screenshot](demo.png)
 
